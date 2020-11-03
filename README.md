@@ -2,7 +2,6 @@
 
 Clone this project on your local machine.
 After cloning the project, we will create the local database that the project will use.
-
 ## Database
 
 - Open the terminal, and `cd` into `server`
