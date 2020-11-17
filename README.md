@@ -9,11 +9,11 @@ Sharlu
 
 PM and TAs
 
-Alastair H
-Alastair C
-Loic
-Mohammed
-Greg
+- Alastair H
+- Alastair C
+- Loic
+- Mohammed
+- Greg
 
 # Get started
 
